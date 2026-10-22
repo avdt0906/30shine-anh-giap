@@ -1,4 +1,4 @@
-# \[SOP-VH-001] Quy trình Mở cửa hàng ngày Salon
+# \[SOP-VH-001] Quy trình Mở cửa hàng ngày Salon Giáp
 
 ## THÔNG TIN CHUNG
 
